@@ -6,13 +6,16 @@ the [Conventional Commits specification](https://www.conventionalcommits.org/en/
 
 ## Unreleased
 
-Breaking changes: none
+None yet.
 
-Other changes:
+## 2.3.0 - 06 June 2025
 
-- 01 November 2023: Changed file extension from `src/views/head.html` to `src/views/head.j2`
-  and changed `node.js`, `queues.js` & `jobs.js` to use this new filename.
-  Also some minor changes to UTS custom scripts and templates.
+This release is tagged v2.3.0
+
+- Increased the width of a div as the svg image just hits the text if you have 64 cores.
+- Added URL for pbsweb to pages.
+- Changed branch name from master to main.
+- Changed header file extension from .html to .j2 i.e. now head.j2, node.js, queues.js & jobs.js 
 
 ## 2.2.0 - 12 July 2023
 
